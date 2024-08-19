@@ -14,7 +14,7 @@ File: `supervised_learning_example.py`
 This script demonstrates a basic supervised learning task using a Decision Tree Classifier.
 
 ### Features:
-- Generates synthetic data for a binary classification problem
+- Adds synthetic data for a binary classification problem
 - Splits data into training and testing sets
 - Trains a Decision Tree Classifier
 - Makes predictions on the test set
